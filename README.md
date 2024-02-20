@@ -1,5 +1,3 @@
-🦙
-
 ➡️ [vladris.com](https://vladris.com)
 
 📕 [Large Language Models at Work](https://a.co/d/1EPbBji)<br/>
